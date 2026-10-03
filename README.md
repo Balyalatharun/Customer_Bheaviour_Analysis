@@ -86,11 +86,7 @@ Business Insights
 Documentation & Presentation
 
 📈 Power BI Dashboard
-
-The Power BI dashboard provides an interactive view of customer shopping behavior.
-
-Dashboard Preview
-![Uploading Screenshot 2026-10-03 153654.png…]()
+![Customer Shopping Bheaviour Dashboard](Dashboard.png)
 
 
 
